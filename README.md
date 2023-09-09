@@ -1,4 +1,4 @@
-# Regression_Regression-Project_Bike_Sharing_Demand_Prediction
+# Regression_Project:Bike_Sharing_Demand_Prediction
 Now-a-days to increase the mobility comfort, the rental bikes (like Rapido, Ola bikes etc) are introduced in the urban cities. It is important to make the rental bike avaliable and accessible to public at the right time to lessen the waiting time. Bikes are more comfortable than cars in narrow lane areas. Eventually providing the city with a stable supply of rental bikes becomes a major concern. The climatic conditions effect the rental bike rides. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes. In this project, different regression techniques are applied on the bike sharing data. There are 14 columns in the dataset. Fields Description:
 Date - Date,
 Hour - Hour of the day (0-23),
